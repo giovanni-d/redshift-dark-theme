@@ -1,9 +1,11 @@
 {
-  "name": "redshift-dark-theme",
+  "name": "redshift-dark",
   "displayName": "Redshift Dark",
-  "version": "1.0.0",
+  "description": "A dark theme based on Frantic Contrast",
+  "version": "0.0.1",
+  "publisher": "giovanni",
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
@@ -13,7 +15,7 @@
       {
         "label": "Redshift Dark",
         "uiTheme": "vs-dark",
-        "path": "./redshift-dark-theme.json"
+        "path": "./redshift-dark.json"
       }
     ]
   }
