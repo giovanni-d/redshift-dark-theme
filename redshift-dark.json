@@ -21,7 +21,7 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#44515e"
+                "foreground": "#b8bb26"
             }
         },
         {
@@ -564,5 +564,6 @@
         "editorSuggestWidget.highlightForeground": "#ef6462",
         "editorSuggestWidget.foreground": "#aeb9c4",
         "editorSuggestWidget.selectedBackground": "#384450"
-    }
+    },
+    "semanticHighlighting": false
 }
