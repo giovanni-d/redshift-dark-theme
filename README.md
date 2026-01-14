@@ -1,6 +1,6 @@
 # Redshift Dark Theme
 
-A dark theme for VS Code.
+A dark theme for VS Code based on Frantic Contrast (rainglow).
 
 ## Preview
 
@@ -8,8 +8,14 @@ A dark theme for VS Code.
 
 ## Installation
 
+Clone to your VS Code extensions folder:
+
 ```bash
-git clone https://github.com/giovanni-d/redshift-dark-theme.git ~/.vscode/extensions/giovanni-d.redshift-dark-theme-1.0.0
+# macOS/Linux
+git clone https://github.com/giovanni-d/redshift-dark-theme.git ~/.vscode/extensions/giovanni.redshift-dark-0.0.1
+
+# Windows
+git clone https://github.com/giovanni-d/redshift-dark-theme.git %USERPROFILE%\.vscode\extensions\giovanni.redshift-dark-0.0.1
 ```
 
-Reload VS Code (Cmd+Shift+P → "Developer: Reload Window"), then open Command Palette and select `Preferences: Color Theme` → `Redshift Dark`.
+Fully close and reopen VS Code, then open Command Palette (Ctrl+Shift+P / Cmd+Shift+P) and select `Preferences: Color Theme` → `Redshift Dark`.
